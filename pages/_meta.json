@@ -1,7 +1,8 @@
 {
   "index": "Vision Aid Platform",
   "another": "Location 1",
-  "advanced": "Prototype Location Upload ",
+  "advanced": "Prototype Location Upload": {
+
   "about": {
     "title": "About",
     "type": "page"
